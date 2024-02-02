@@ -27,7 +27,6 @@ For more https://graphql.org/
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8897c488-01af-49ef-8d28-2b81d59b92b0/feff916a-4d63-47ab-a8c0-279ea9f8a438/Untitled.png)
 
 ---
 
@@ -105,7 +104,6 @@ npm run serve
 
 1. Open your localhost
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8897c488-01af-49ef-8d28-2b81d59b92b0/4babea72-75c0-4729-a3e6-94111be6bd3c/Untitled.png)
 
 ---
 
@@ -164,9 +162,4 @@ Mutations in GraphQL are used to modify data on the server. They allow clients t
 
 For more https://graphql.org/
 
-"Alone we can do so little; together we can do so much." - Helen Keller
 
-- [GitHub](https://github.com/)
-- [LinkedIn](https://linkedin.com/)
-- [Facebook](https://facebook.com/)
-- [Twitter](https://twitter.com/)
