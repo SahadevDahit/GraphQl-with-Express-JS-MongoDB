@@ -70,11 +70,7 @@ For more https://graphql.org/
 }
 ```
 
-### Folder structure
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8897c488-01af-49ef-8d28-2b81d59b92b0/1a9e976e-e741-4234-9c4e-a6599fb7eed0/Untitled.png)
-
----
 
 ## **Steps**
 
